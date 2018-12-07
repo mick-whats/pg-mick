@@ -1,3 +1,2 @@
-# pg-mick
+# {{name}}
 
-project template by mick-whats
