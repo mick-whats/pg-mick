@@ -1,3 +1,4 @@
 {
-  "extends": "Standard"
+  "extends": "Standard",
+  "plugins": ["jest"]
 }

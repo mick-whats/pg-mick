@@ -1,7 +1,10 @@
 {
-  "name": "{{name}}",
+  "name": "pg-mick",
   "version": "0.0.1",
   "private": true,
+  "engines": {
+    "node": ">=6.15.0"
+  },
   "scripts": {
     "test": "jest",
     "test:watch": "npm run jest -- --watch",
