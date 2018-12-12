@@ -1,5 +1,5 @@
 {
-  "name": "pg-mick",
+  "name": "{{name}}",
   "version": "0.0.1",
   "engines": {
     "node": ">=6.0.0"
@@ -33,12 +33,12 @@
   "files": [
     "src"
   ],
-  "homepage": "https://github.com/mick-whats/pg-mick",
-  "bugs": "https://github.com/mick-whats/pg-mick/issues",
+  "homepage": "https://github.com/{{owner}}/{{name}}",
+  "bugs": "https://github.com/{{owner}}/{{name}}/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mick-whats/pg-mick.git"
+    "url": "https://github.com/{{owner}}/{{name}}.git"
   },
   "license": "MIT",
-  "author": "mick-whats"
+  "author": "{{owner}}"
 }
