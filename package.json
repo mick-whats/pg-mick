@@ -9,13 +9,18 @@
     "template",
     "hashids"
   ],
+  "bin": {
+    "boip": "./bin/main.js"
+  },
   "scripts": {
     "test": "jest",
     "test:watch": "npm run jest -- --watch",
     "cover": "npm test -- --coverage"
   },
   "dependencies": {
-    "hashids": "^1.2.2"
+    "cac": "^6.3.9",
+    "conf": "^2.1.0",
+    "prompts": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
