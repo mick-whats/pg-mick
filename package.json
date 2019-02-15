@@ -2,7 +2,7 @@
   "name": "pg-mick",
   "version": "0.0.1",
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=7.10.1"
   },
   "description": "",
   "keywords": [
@@ -15,7 +15,7 @@
     "cover": "npm test -- --coverage"
   },
   "dependencies": {
-    "hashids": "^1.2.2"
+    "xza": "^2.7.0"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
