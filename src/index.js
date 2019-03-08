@@ -1,6 +1,6 @@
 class Sample {
-  constructor (name) {
-    this.name = 'name'
+  constructor (name = 'name') {
+    this.name = name
   }
   hello () {
     return `Hello ${this.name}`
